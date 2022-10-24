@@ -1,0 +1,111 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 250px;
+    margin: auto;
+    text-align: left;
+    font-family: arial;
+  }
+  
+  .price {
+    color: black;
+    font-size: 22px;
+    border-style: solid;
+  }
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: left;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }
+  .fww{
+    width: 14%;
+    padding: 1%;
+    float: left;
+  }
+/* Container needed to position the button. Adjust the width as needed */
+.container {
+    position: relative;
+    width: 50%;
+  }
+  
+  /* Make the image responsive */
+ 
+  
+  /* Style the button and place it in the middle of the container/image */
+  .container .btn {
+    position:absolute;
+    top: 10%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 10px;
+    padding: 10px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .container .btn:hover {
+    background-color: green;
+  }
+
+  /* Container needed to position the button. Adjust the width as needed */
+.container {
+    position: relative;
+    width: 20%;
+  }
+  
+  /* Make the image responsive */
+ 
+  
+  /* Style the button and place it in the middle of the container/image */
+  .container .btn1 {
+    position:absolute;
+    top: 10%;
+    left: 500%; 
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 10px;
+    padding: 10px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .container .btn1:hover {
+    background-color: green;
+  }
+
+  .table {
+    position: relative; 
+
+  }
+  .maine {
+    width: 110%;
+    margin-left: 40px;
+  }
+
+  .table1 {
+    padding-top: 30%;
+    margin-left: 40px;
+  }
+  .table {
+    margin-left: 40px;
+  }
+  .tbt {
+    width: 77%;
+  }
